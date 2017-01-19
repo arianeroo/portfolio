@@ -1,10 +1,6 @@
 {
-  "name": "b.oilerplate",
-  "version": "1.7.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/blateral/b.oilerplate.git"
-  },
+  "name": "portfolio",
+  "version": "1.0.0",
   "scripts": {
     "postinstall": "say 'I am finished installing from NPM.' -v Whisper",
     "start": "NODE_ENV=development grunt start",
